@@ -1,8 +1,0 @@
-print ("my name is rozina")
-print ("i am 18 years old")
-print ("i come from kisumu county")
-print ("i love skating, reading, watching and basketball")
-print ("i love drawing")
-print ("-----------")
-print ("*******************")
-print ("#####################")
